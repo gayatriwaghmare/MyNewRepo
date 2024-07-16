@@ -1,0 +1,6 @@
+[core]
+    remote = datastorage
+['remote "storage"']
+    url = gdrive://1N-p2L7aml4Z-45-RU08IjPooa1BPtTY8
+['remote "datastorage"']
+    url = gdrive://1kMAj5Uc26bEHEFJxdP_H8A4X424oJkEQ
